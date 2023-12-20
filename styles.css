@@ -1,1 +1,43 @@
 /*  your css code here. If applicable */
+#parent1>.header{
+	text-align:center;
+	background-color:#011e29;
+	color:white;
+	width:900px;
+	padding:10px;
+}
+#parent2{
+	display:flex;
+	width:900px;
+	background-color:#f5f5f5;
+	padding:10px;
+	align-items:flex-start;
+	
+}
+.latest-news-section{
+	border:1px solid transparent;
+	border-radius:20px;
+	background-color:white;	
+	margin:2px;
+	width:300px;
+	text-align:center;
+}
+.main-article{
+	border:1px solid transparent;
+	border-radius:20px;
+	background-color:white;	
+	margin:2px;
+	width:300px;
+	text-align:center;
+}
+.pictorial-news-section{
+	border:1px solid transparent;
+	border-radius:20px;
+	background-color:white;	
+	margin:2px;
+	text-align:center;
+}
+.pictorial-news-section>img{
+	width:300px;
+}
+
