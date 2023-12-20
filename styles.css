@@ -1,10 +1,11 @@
 /*  your css code here. If applicable */
-#parent1>.header{
+#parent1>header{
 	text-align:center;
 	background-color:#011e29;
 	color:white;
 	width:900px;
 	padding:10px;
+	font-weight:900px;
 }
 #parent2{
 	display:flex;
